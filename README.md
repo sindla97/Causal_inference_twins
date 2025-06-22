@@ -1,1 +1,1 @@
-Casual Inference
+Causal Inference
